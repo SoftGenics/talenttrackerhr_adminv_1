@@ -53,7 +53,7 @@ export default class Login extends Component {
         <Row>
           <Col sm={5} className="login-left">
           <div className="d-flex align-items-center position-absolute" style={{top: '10px' ,left: '10px'}}>
-          <img src="images/logo.jpeg" style={{height:'100px', width:'100px'}} alt="logo" /><h5 class="fw-bold ms-2 mb-0 display-6">Talent Trackers HR</h5>
+          <img src="images/logo.jpeg" style={{height:'70px', width:'70px'}} alt="logo" /><h5 class="fw-bold ms-2 mb-0 ">Talent Trackers Consulting Pvt Ltd</h5>
           </div>
             <Container className='mt-5 '>
               <Row className='align-items-center justify-content-center form-cont'>
